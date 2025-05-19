@@ -32,32 +32,6 @@ mate-media
 
 
 
-caja
-caja-open-terminal
-caja-actions
-caja-wallpaper
-caja-sendto
-caja-extensions-common
-
-
-nemo
-
-
-mate-terminal
-lxterminal
-sakura
-
-
-pluma
-pluma-plugins
-
-
-pcmanfm
-lxterminal
-
-
-
-
 ##
 ## ## Package / Window Manager / compiz
 ##

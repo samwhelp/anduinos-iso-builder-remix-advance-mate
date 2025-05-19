@@ -1,0 +1,18 @@
+
+
+##
+## # Email Client
+##
+
+
+
+
+##
+## ## Package / Email Client / thunderbird
+##
+
+thunderbird
+thunderbird-locale-zh-hant
+thunderbird-locale-zh-hans
+thunderbird-locale-ja
+thunderbird-locale-ko
