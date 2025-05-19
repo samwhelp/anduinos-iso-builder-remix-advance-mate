@@ -78,15 +78,6 @@ mate-terminal
 
 
 ##
-## ## Package / Terminal / tilix
-##
-
-#tilix
-
-
-
-
-##
 ## ## Package / Terminal / terminator
 ##
 
